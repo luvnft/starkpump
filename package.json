@@ -41,7 +41,7 @@
   },
   "homepage": "https://github.com/horuslabsio/Starknet-Scaffold#readme",
   "dependencies": {
-    "@starknet-react/core": "^2.9.0",
+    "@starknet-react/core": "^3.6.5",
     "ora": "^8.0.1",
     "starknet": "^5.29.0"
   }
